@@ -38,10 +38,10 @@ I started my professional career in finance after studying History at university
 - Finally I led the department's technical analysis of the 2017 legislative changes to the taxation of non-domiciliaries enforced in April 2019.
 
 
-**The Lada Rally  (August 2017 to present)
+**The Lada Rally  (August 2017 to August 2021)
 Co-founder, Logistics and Partnership Lead**
 
-- The Lada Rally is a social enterprise that raised funds to help displaced refugees who had settled in Greece. Through our annual charity race we were able to provide funds to the charities working on the front line but also raise awareness of the work these charities were doing.
+- The Lada Rally was a social enterprise that raised funds to help displaced refugees who had settled in Greece. Through our annual charity race we were able to provide funds to the charities working on the front line but also raise awareness of the work these charities were doing.
 
 - I focused on the logistical side of operations, ensuring all participants had the necessary documents for travel throughout Europe and purchases of suitable vehicles. Though the focus was on fun, staying safe and compliant was key to the the Rally's success.
 
