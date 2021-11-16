@@ -29,23 +29,23 @@ I started my professional career in finance after studying History at university
 
 **Saffery Champness, Jeffreys Henry and Grant Thornton (August 2015 to July 2021)Tax Consultant**
 
-During my time in professional services, I worked primarily in private client tax, whilst working to qualify as a chartered tax advisor. 
+- During my time in professional services, I worked primarily in private client tax, whilst working to qualify as a chartered tax advisor. 
 
-My day to day role varied depending on the client but primarily I provided tax advice to UK and non-UK high net worth individuals, liased with HMRC and foreign tax authorities on behalf of my clients dealing with the UK and overseas tax affairs. 
+- My day to day role varied depending on the client but primarily I provided tax advice to UK and non-UK high net worth individuals, liased with HMRC and foreign tax authorities on behalf of my clients dealing with the UK and overseas tax affairs. 
 
-I also handled my portfolio's administration and regulatory requirements, this often including dealing third parties. 
+- I also handled my portfolio's administration and regulatory requirements, this often including dealing third parties. 
 
-Finally I led the department's technical analysis of the 2017 legislative changes to the taxation of non-domiciliaries enforced in April 2019.
+- Finally I led the department's technical analysis of the 2017 legislative changes to the taxation of non-domiciliaries enforced in April 2019.
 
 
 **The Lada Rally  (August 2017 to present)
 Co-founder, Logistics and Partnership Lead**
 
-The Lada Rally is a social enterprise that raised funds to help displaced refugees who had settled in Greece. Through our annual charity race we were able to provide funds to the charities working on the front line but also raise awareness of the work these charities were doing.
+- The Lada Rally is a social enterprise that raised funds to help displaced refugees who had settled in Greece. Through our annual charity race we were able to provide funds to the charities working on the front line but also raise awareness of the work these charities were doing.
 
-I focused on the logistical side of operations, ensuring all participants had the necessary documents for travel throughout Europe and purchases of suitable vehicles. Though the focus was on fun, staying safe and compliant was key to the the Rally's success.
+- I focused on the logistical side of operations, ensuring all participants had the necessary documents for travel throughout Europe and purchases of suitable vehicles. Though the focus was on fun, staying safe and compliant was key to the the Rally's success.
 
-Given my financial training I oversaw all annual accounting and tax obligations for the enterprise, and also supported my co-founders in sourcing external corporate partnerships to support the enterprise. Ben & Jerry's provided support through their refugee initiatives.
+- Given my financial training I oversaw all annual accounting and tax obligations for the enterprise, and also supported my co-founders in sourcing external corporate partnerships to support the enterprise. Ben & Jerry's provided support through their refugee initiatives.
 
 ****
 
