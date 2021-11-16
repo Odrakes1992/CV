@@ -1,19 +1,9 @@
-# CV
 
-Osneil Drakes 
-
-Chartered tax advisor turned software developer. 
+**Osneil Drakes** (***Tax Advisor turned Software Engineer***)
 
 **Profile**
 
-
-
-
-After a few painstaking years of studying to pass the Chartered Tax Advisor professional qualification, I wanted a new challenge. 
-
-Having completed the Makers Academy bootcamp, I am now looking for my first role as a Junior Developer, where I can continue learning about clean code, TDD, whilst also picking up a few new languages. 
-
-I have just finished the Makers Academy Bootcamp. The bootcamp focussed on Test Driven Development, Pair Programming and Agile software development using some of the stack show above. I also picked up some mentees along the way - 4 and counting!
+I started my professional career in finance after studying History at university. I gravitated towards the problem solving, the research and the opportunity to learn. As I was studying I was introduced to the regulatory/tax side of the tech indurstry and really enjoyed its changing and wide-ranging nature. I decided to make the career change because I wanted a new challenge and something new to learn. I have just finished the Makers Academy Bootcamp which focussed on Test Driven Development, Pair Programming and Agile software development using some of the stack shown below. I also picked up some mentees along the way - 4 and counting!
 
 **Projects**
 
