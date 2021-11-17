@@ -70,8 +70,8 @@ Teamwork has always been integral to every role that I have had in my profession
 **Makers Academy (July 2021 to November 2020 )**
 
 - OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, Python, Django
+- Rspec, Jasmine
 - Create and consume RESTful APIs
 
 **University of Kent, Canterbury (2011 to 2014)**
