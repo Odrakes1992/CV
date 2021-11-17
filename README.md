@@ -51,31 +51,17 @@ Co-founder, Logistics and Partnership Lead**
 
 **Skills**
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples. (Using a STAR example Paragraph) Consider the questions below.
+**Problem Solving**
 
--STAR -What was the situation/task? (ST)
+Problem solving has been a key skill in learning to code at Makers, and will continue to be a key skill in software development. I have learnt that there is usually more than one solution to a problem and through debugging, research and code reviews I have found that I always reach a solution to the issue at hand. This is one of the transferrable skills that I picked up in my university degree where not only was I required to process a lot of information and determine what was relevant but know where to look to find the relevant information. This improved my researching skills, which have been very useful as the problem solving process tends to involve research to both understand the problem and find other tried and tested methods. 
 
--How was the skill used?
+**Fast Learner**
 
--What did you do? (action)
+During my time studying for my professional qualifications, I was expected to fulfil my normal day to day role. I found that as I studied and started to understand the complicated tax concepts I applied what I learned to my role. Once I had found my niche, I developed the confidence to explain these concepts to junior members of the team and became the go-to person for all related queries. As a part of the Makers Bootcamp I was introduced to many different technologies and concepts in a short space of time, for my final project I worked with Python and Django to deliver our product. This was a steep learning curve having not worked with either language and framework previously, but our final product is testatment to my ability to process a lot of new information in a short space of time. 
 
--What was the result?
+**Collaboration**
 
-This Skill
-
-Experience
-Achievements
-Evidence (STAR)
-Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-I achieved A during my work at B (job, or otherwise)
-I contributed to the growth of X while doing Y (job, or otherwise)
-I built this, made this, broke this, fixed this, etc.
-A link to some on-line evidence (blogs, videos, articles, etc.)
-
-
+Teamwork has always been integral to every role that I have had in my professional career. Outside of my day to day role when working with the other founding members of the Lada Rally, we would not have been able to deliver a successful and safe event without each founding member collaborating and communicating, especially as these events were in a foreign country with no familiarity with the contestants. These contestants relied wholly on us and with open and honest communication we were able to help them feel at ease. Separately being a teamplayer was integral to succeeding at Makers from pair-programming to the group projects, during the latter I ensured that each member of the team felt like their voices were heard and supported team members where I could. 
 
 ****
 
