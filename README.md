@@ -31,7 +31,7 @@ I started my professional career in finance after studying History at university
 
 - During my time in professional services, I worked primarily in private client tax, whilst working to qualify as a chartered tax advisor. 
 
-- My day to day role varied depending on the client but primarily I provided tax advice to UK and non-UK high net worth individuals, liased with HMRC and foreign tax authorities on behalf of my clients dealing with the UK and overseas tax affairs. 
+- My day to day role varied depending on the client but primarily I provided tax advice to UK and non-UK high net worth individuals, liased with HMRC and foreign tax authorities on behalf of my clients dealing with their UK and overseas tax affairs. 
 
 - I also handled my portfolio's administration and regulatory requirements, this often including dealing third parties. 
 
