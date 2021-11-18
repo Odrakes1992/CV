@@ -61,7 +61,7 @@ During my time studying for my professional qualifications, I was expected to fu
 
 **Collaboration**
 
-Teamwork has always been integral to every role that I have had in my professional career. Outside of my day to day role when working with the other founding members of the Lada Rally, we would not have been able to deliver a successful and safe event without each founding member collaborating and communicating, especially as these events were in a foreign country with no familiarity with the contestants. These contestants relied wholly on us and with open and honest communication we were able to help them feel at ease. Separately being a teamplayer was integral to succeeding at Makers from pair-programming to the group projects, during the latter I ensured that each member of the team felt like their voices were heard and supported team members where I could. 
+Teamwork has always been integral to every role that I have had in my professional career. Outside of my day to day role when working with the other founding members of the Lada Rally, we would not have been able to deliver a successful and safe event without each founding member collaborating and communicating, especially as these events were in a foreign country with no familiarity with the contestants. These contestants relied wholly on us and with open and honest communication we were able to help them feel at ease. Separately being a teamplayer was integral to succeeding at Makers, during my final team project we were reduced from a team of 4 to a team of 3 for the final week and I picked up the tasks allocated to the other team member to ensure that we met our feature target. 
 
 ****
 
